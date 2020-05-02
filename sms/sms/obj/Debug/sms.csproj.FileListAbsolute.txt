@@ -1,0 +1,6 @@
+C:\Users\hahnr\source\repos\sms\sms\bin\Debug\sms.exe.config
+C:\Users\hahnr\source\repos\sms\sms\bin\Debug\sms.exe
+C:\Users\hahnr\source\repos\sms\sms\bin\Debug\sms.pdb
+C:\Users\hahnr\source\repos\sms\sms\obj\Debug\sms.csprojAssemblyReference.cache
+C:\Users\hahnr\source\repos\sms\sms\obj\Debug\sms.exe
+C:\Users\hahnr\source\repos\sms\sms\obj\Debug\sms.pdb
